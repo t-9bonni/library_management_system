@@ -2,7 +2,7 @@
 This project was designed in response to a final assignment for a Python class. The project was made in the platform PyCharm. The assignment was to design an extensive original code. I designed a library management system.
 
 
-This system begins with a menu ![Library Management System Menu] ( 
+This system begins with a menu ![Library Management System Menu screenshot] (https://github.com/t-9bonni/library_management_system/blob/master/Screenshot%20of%20menu.png). 
 Here is a list of functions:
 * View entire collection
 * Search by:
