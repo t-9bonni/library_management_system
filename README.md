@@ -3,7 +3,7 @@ This project was designed in response to a final assignment for a Python class. 
 
 
 This system begins with a menu 
-![Library Management System Menu screenshot] (https://github.com/t-9bonni/library_management_system/blob/master/Screenshot%20of%20menu.png). 
+![Library Management System Menu screenshot](https://github.com/t-9bonni/library_management_system/blob/master/Screenshot%20of%20menu.png). 
 
 Here is a list of functions:
 * View entire collection
